@@ -9,7 +9,7 @@ func findSum(num [5]int) int {
 	}
 	return sum
 }
-
+func 
 func main() {
 	var num [5]int
 	fmt.Println("Enter 5 number :")
