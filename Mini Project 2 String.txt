@@ -1,0 +1,31 @@
+Mini Project 2: String Utility Tool
+🎯 Goal:
+
+একটা function বানাও:
+
+func processText(text string) string
+
+এই function করবে:
+
+text reverse করবে
+
+সব letter uppercase করবে
+
+📌 Example:
+
+Input:
+
+hello
+
+Output:
+
+OLLEH
+
+Hint:
+
+for loop
+
+string indexing
+
+strings.ToUpper() ব্যবহার করতে পারো
+(remember to import "strings")
